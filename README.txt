@@ -4,4 +4,4 @@ Expected observations: branches main, feature1 and feature2; feature1 merges; fe
 Experiment 08: Practicing Git Branching and Switching.
 This project is maintained by Anshu - Main Branch.
 This project is maintained by Anshu - Feature 2.
-Project Status: Initial Version
+Project Status: Updated in main 
